@@ -57,6 +57,10 @@ The `ParkingSpotManager.java` implements:
    - Ensures atomic operations for spot reservation
    - Prevents double booking
 
+### Live Demo: https://smart-parking-ten.vercel.app/
+Default username: admin@123
+Default password: admin@123
+
 ### Advantages
 1. **Efficiency**
    - Automated spot allocation
